@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cstdlib>
+#include "Champions.h"
 
 using namespace std;
 
