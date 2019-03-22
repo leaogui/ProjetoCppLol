@@ -43,15 +43,23 @@ class Controller{
 				
 				case 1:
 					
+					
+						cout << "Listagem de campeões: \n";
+					
+					
 					break;
 				
 				
 				case 2:
 					
+						cout << "Adicionar build: \n";
+					
 					break;
 				
 				
 				case 3:
+					
+						cout << "Obrigado por utilizar o programa!\n";
 					
 					break;
 				
